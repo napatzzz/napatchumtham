@@ -1,9 +1,20 @@
 # 👋 Hi, I'm Napat Chutham
 
 🚀 Intern Software Engineer | Full-stack Developer | DevOps Enthusiast  
-🎓 3rd Year Student, Bachelor of Information Technology  
-King Mongkut's University of Technology Thonburi (KMUTT)
 
+🎓 3rd Year Student, Bachelor of Information Technology  
+King Mongkut’s University of Technology Thonburi (KMUTT)  
+
+---
+
+## 💼 Work Experience
+**Intern Software Engineer** – B3 Technology (June 2024 – Present)  
+- Developed and maintained web applications using **Spring Boot (Java)**, **Angular (TypeScript)**, and relational databases (**MySQL, MariaDB**).  
+- Built CI/CD pipelines with **Kubernetes (K8s)** and **Jenkins** for production & UAT deployments.  
+- Collaborated with team members to troubleshoot issues, improving **teamwork and problem-solving skills**.  
+- Communicated with users to gather feedback and improve **user-focused development**.  
+
+---
 
 **💻 Frontend Development**  
 ![Frontend](https://img.shields.io/badge/Frontend_Skills-4%2F5-22c55e?style=for-the-badge&logo=html5&logoColor=white)
@@ -50,14 +61,6 @@ King Mongkut's University of Technology Thonburi (KMUTT)
 
 </div>
 
-## 💼 Work Experience
-
-**Intern Software Engineer** – B3 Technology (June 2024 – Present)
-
-- Developed and maintained web applications using **Spring Boot (Java)**, **Angular (TypeScript)**, and relational databases (**MySQL, MariaDB**)
-- Built CI/CD pipelines with **Kubernetes (K8s)** and **Jenkins** for production & UAT deployments
-- Collaborated with team members to troubleshoot issues, improving **teamwork and problem-solving skills**
-- Communicated with users to gather feedback and improve **user-focused development**
 
 ## 📂 Featured Project
 
